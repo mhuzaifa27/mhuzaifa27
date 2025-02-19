@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose/KMP**
 
 - 💬 Ask me about **Android/Kotlin**
 
 - 📫 How to reach me **muhammad.huzaifa9519@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1r-uuJ6SQP1iG7M3t5fHWoubLFjka1w3t/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1dCLSIJYCBRa7lp6xE70ZhBsb9tXLgufK/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny😅**
 
